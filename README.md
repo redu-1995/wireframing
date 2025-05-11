@@ -87,7 +87,7 @@ Wireframes can vary in their level of detail and fidelity depending on the stage
 
 ## Example: Identifying the Wireframe Type
 
-If you click [](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=FDLYWxrLozU8a9dw-0)(#) to view the high-fidelity design of the Airbnb project, you will notice it includes specific fonts, colors, icons, and real content — all of which indicate that this is a **high-fidelity wireframe**.
+If you click ([#](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=FDLYWxrLozU8a9dw-0)) to view the high-fidelity design of the Airbnb project, you will notice it includes specific fonts, colors, icons, and real content — all of which indicate that this is a **high-fidelity wireframe**.
 
 Such detailed wireframes are typically used after the initial concepts have been approved, and they help developers understand exactly how the interface should look and behave.
 
